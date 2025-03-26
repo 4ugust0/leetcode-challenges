@@ -11,18 +11,7 @@
  * @return {ListNode}
  */
 var mergeTwoLists = function(list1, list2) {
-
-    // Entender o problema
-    // Escrever a solução
-    // Aplicar o raciocinio
-
-    /*
-        - Identificar as duas listas;
-        - Identificar quais são nulas
-        - Unir as duas listas;
-        - Ordenar essas listas;
-        - Fazer o result das duas listas.
-    */
+    
 
     var dummy = new ListNode(0)
     var temp = dummy
